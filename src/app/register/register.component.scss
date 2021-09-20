@@ -1,0 +1,32 @@
+input[type="submit"]:hover{
+    box-shadow:2px 2px rgba(18, 19, 19, 0.218);
+    color: white;
+}
+.loginform input{
+    padding: 15px;
+    margin: 30px;
+    border-radius: 30px;
+    width: 300px;
+    border: none;
+    background-color: white;}
+
+    .login-box{
+        margin-top: 100px;
+        margin-left: 300px;
+        width:800px;
+        background-color: rgb(232, 238, 238);
+    }
+
+    h1,h4,h3{
+        text-align: center;
+        color: green;
+    
+    }
+
+    
+    
+input:focus{
+    outline: none;
+    box-shadow:2px 2px rgba(18, 19, 19, 0.218);
+
+}
